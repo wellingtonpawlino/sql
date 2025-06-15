@@ -11,3 +11,4 @@ go
 select * from cliente;
 
 select string_agg(nome,',' )as lista_nomes
+
